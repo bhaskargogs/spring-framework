@@ -1,6 +1,13 @@
 # Information about Spring
 
-- Spring has overall 20 modules
+- Spring has 7 main modules:
+  1. Context
+  2. Web MVC
+  3. DAO
+  4. JDBC
+  5. ORM
+  6. AOP
+  7. Core
 
 The main functionality of Spring is dependency injection and Inversion of Control
 
